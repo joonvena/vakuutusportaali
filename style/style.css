@@ -4,14 +4,15 @@
 
 .splash {
     background-image: url('../background.jpg');
-    height: 600px;
+    background-size: cover;
     padding-top: 50px;
 }
 
 .information {
     padding-left: 150px;
     padding-right: 150px;  
-    padding-top: 150px;  
+    padding-top: 150px;
+    padding-bottom: 150px; 
     color: #FFF;
     text-shadow: 1px 1px #000;
 }
